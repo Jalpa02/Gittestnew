@@ -6,6 +6,8 @@ public class TestGIT2 {
 	{
 	
 		System.out.println("Open Test demo2");
+		
+		System.out.println("Open Test demo2 after pull");
 	}
 
 	
