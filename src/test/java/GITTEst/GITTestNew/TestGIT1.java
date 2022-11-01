@@ -6,6 +6,8 @@ public class TestGIT1 {
 	{
 	
 		System.out.println("Open Test");
+		System.out.println("Open Test After import1");
+		System.out.println("Open Test After import2");
 	}
 
 	
